@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  Zupet
+
+  Created by Pankaj Rawat on 22/08/25.
+  
+*/
+
+"Know Your Dog’s Mood" = "Know Your Dog’s Mood";
+"Real-time AI reads emotions through posture and behavior." = "Real-time AI reads emotions through posture and behavior.";
+"Track in Real-Time" = "Track in Real-Time";
+"GPS tags help monitor walks, location, and safety." = "GPS tags help monitor walks, location, and safety.";
+"Instant Pet Alerts" = "Instant Pet Alerts";
+"Next" = "Next";
+"Get Started" = "Get Started";
+"Welcome Back!" = "Welcome \nBack!";
+"Sign in to acces your account" = "Sign in to acces your account";
+"Enter your email" = "Enter your email";
+"Password" = "Password";
+"Remember me" = "  Remember me";
+"Forgot Password ?" = "Forgot Password ?";
+"Sign In" = "Sign In";
+"Login with Google" = "Login with Google";
+"Don’t have an account . Sign Up" = "Don’t have an account . Sign Up";
+
+//Mark: Settings
+
+"Settings" = "Settings";
+"Account" = "Account";
+"Edit Profile" = "Edit Profile";
+"Change Password" = "Change Password";
+"Notifications" = "Notifications";
+"Appointment Reminder" = "Appointment Reminder";
+"Preferences" = "Preferences";
+"Language" = "Language";
+"Privacy & Security" = "Privacy & Security";
+"Delete Account" = "Delete Account";
+"Logout" = "Logout";
+
+//MARK: Edit Profile
+"Edit Profile" = "Edit Profile";
